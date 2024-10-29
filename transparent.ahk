@@ -2,7 +2,7 @@
 WinGet, currentTransparency, Transparent, A
 if (currentTransparency = OFF)
 {
-    WinSet, Transparent, 220, A
+    WinSet, Transparent, 150, A
 }
 else
 {
